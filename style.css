@@ -1,0 +1,54 @@
+.body{
+    background-image: url(gambar/kfc.jpg);
+ }
+ .kal{
+     width: 850px;
+     height: 800px;
+     border: 1px solid black;
+     margin: 80px auto;
+     border-radius: 10px;
+     padding: 15px;
+     background-color: rgb(117, 100, 67);
+ }
+ h1{
+     text-align: center;
+     color: white;
+ }
+ .FormInput{
+     padding: 20px;
+     width: 95%;
+     border-radius: 5px;
+     border: none;
+     font-size: 30px;
+ }
+ .FormSelect {
+     padding: 20px;
+     width: 100%;
+     font-weight: bold;
+     font-size: 20px;
+     border: none;
+     border-radius: 5px;
+ }
+ .FormHasil {
+     margin-top: 10px;
+     padding: 80px 10px;
+     width: 98%;
+     border-radius: 5px;
+     border: none;
+     font-size: 30px;
+ }
+ button {
+     margin-top: 10px;
+     padding: 20px;
+     width: 100%;
+     border-radius: 5px;
+     border: none;
+     font-weight: bold;
+     font-size: 15px;
+     background-color: red;
+     color: white;
+ }
+ p{
+     color: white;
+     font-weight: bold;
+ }
